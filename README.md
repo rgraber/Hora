@@ -1,1 +1,3 @@
 # Hora
+This repository contains the file for my senior thesis, a game/program I called Hora. The file is a little bit old, so to open it, it's best to download Blender 2.57 from http://download.blender.org/release/. All the actual code files will be visible there. 
+There is a known bug that the main animated character, nicknamed 'Laddie', sometimes walks through walls if a certain sequence of steps is executed.
